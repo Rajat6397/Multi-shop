@@ -1,0 +1,32 @@
+ .header{
+    display: flex;
+    justify-content: space-around;
+    padding: 16px;
+} 
+.multi{
+    height:50px;
+    width:130px;
+    color:#FFD333;
+    background-color: #3D464D;
+    font-size: 40px;
+    font-weight: 100px;
+}
+.shop{
+    height:50px;
+    width:110px;
+    color:#3D464D;
+    background-color: #FFD333; 
+    font-size: 40px;
+    font-weight: 100px;
+}
+input{
+    height:20px;
+    width:250px;
+    padding:3px;
+}
+ .search{
+    display: flex;
+} 
+ .help, h3{
+    color:#3D464D;
+}
